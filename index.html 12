@@ -1,0 +1,4 @@
+input[type=text]{
+    width:auto;
+    box-sizing:border-box;
+    }

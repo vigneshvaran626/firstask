@@ -1,0 +1,34 @@
+section{
+    padding: 15px;
+    text-align: center;
+}
+button{
+    font-size: 20px;
+    padding: 14px 20px;
+    background-color: rgb(93, 9, 250);
+    color: rgb(245, 245, 245);
+}
+button:hover{
+    cursor: pointer;
+    background-color:lawngreen;
+    color: black;
+}
+table,th{
+    border:2px solid;
+    border-collapse: collapse;
+    padding:10px;
+}
+.inputfield{
+    font-size: 30px;
+    margin: 20px;
+    height: 50px;
+    border: 2px solid green;
+    outline: none;
+    border-radius: 8px;
+
+    
+
+}
+.inputfield:focus{
+    background-color:blue;
+}
